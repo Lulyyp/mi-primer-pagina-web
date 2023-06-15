@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(254, 151, 190);
+}
+button{
+    font-family: 'Courier New', Courier, monospace;
+    border:0px;
+    border-radius: 100%;
+    padding:30px;
+    margin:auto;
+    box-shadow: 2px 4px 10px rgba(154, 18, 73, 0.404);
+}
+.textos{
+    color:  rgb(66, 0, 31);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace ;
+}
+img{
+    border-radius: 10px;
+    width: 45s0px;
+    height: 300px;
+    margin: 20px auto;
+}
